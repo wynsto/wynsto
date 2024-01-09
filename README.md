@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Wynston GitHub stats](https://github-readme-stats.vercel.app/api?username=wynsto)](https://github.com/wynsto)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,docker,linux,nodejs,vue,react)](https://skillicons.dev)
 
 
